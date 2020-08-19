@@ -1,0 +1,12 @@
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task9\bin\Debug\netcoreapp3.1\Task9.exe
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task9\bin\Debug\netcoreapp3.1\Task9.deps.json
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task9\bin\Debug\netcoreapp3.1\Task9.runtimeconfig.json
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task9\bin\Debug\netcoreapp3.1\Task9.runtimeconfig.dev.json
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task9\bin\Debug\netcoreapp3.1\Task9.dll
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task9\bin\Debug\netcoreapp3.1\Task9.pdb
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task9\obj\Debug\netcoreapp3.1\Task9.AssemblyInfoInputs.cache
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task9\obj\Debug\netcoreapp3.1\Task9.AssemblyInfo.cs
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task9\obj\Debug\netcoreapp3.1\Task9.csproj.CoreCompileInputs.cache
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task9\obj\Debug\netcoreapp3.1\Task9.dll
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task9\obj\Debug\netcoreapp3.1\Task9.pdb
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task9\obj\Debug\netcoreapp3.1\Task9.genruntimeconfig.cache

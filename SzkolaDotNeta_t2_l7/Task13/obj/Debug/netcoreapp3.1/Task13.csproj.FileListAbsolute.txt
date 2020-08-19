@@ -1,0 +1,13 @@
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\bin\Debug\netcoreapp3.1\Task13.exe
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\bin\Debug\netcoreapp3.1\Task13.deps.json
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\bin\Debug\netcoreapp3.1\Task13.runtimeconfig.json
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\bin\Debug\netcoreapp3.1\Task13.runtimeconfig.dev.json
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\bin\Debug\netcoreapp3.1\Task13.dll
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\bin\Debug\netcoreapp3.1\Task13.pdb
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\obj\Debug\netcoreapp3.1\Task13.csprojAssemblyReference.cache
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\obj\Debug\netcoreapp3.1\Task13.AssemblyInfoInputs.cache
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\obj\Debug\netcoreapp3.1\Task13.AssemblyInfo.cs
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\obj\Debug\netcoreapp3.1\Task13.csproj.CoreCompileInputs.cache
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\obj\Debug\netcoreapp3.1\Task13.dll
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\obj\Debug\netcoreapp3.1\Task13.pdb
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l7\Task13\obj\Debug\netcoreapp3.1\Task13.genruntimeconfig.cache
