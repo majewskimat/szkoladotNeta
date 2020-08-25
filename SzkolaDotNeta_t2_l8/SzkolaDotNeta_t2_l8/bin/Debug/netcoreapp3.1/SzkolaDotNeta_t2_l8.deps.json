@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SzkolaDotNeta_t2_l8/1.0.0": {
+        "runtime": {
+          "SzkolaDotNeta_t2_l8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SzkolaDotNeta_t2_l8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

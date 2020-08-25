@@ -1,0 +1,13 @@
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\bin\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.exe
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\bin\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.deps.json
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\bin\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.runtimeconfig.json
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\bin\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.runtimeconfig.dev.json
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\bin\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.dll
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\bin\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.pdb
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\obj\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.csprojAssemblyReference.cache
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\obj\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.AssemblyInfoInputs.cache
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\obj\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.AssemblyInfo.cs
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\obj\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.csproj.CoreCompileInputs.cache
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\obj\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.dll
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\obj\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.pdb
+C:\Users\matma\Desktop\szkoladotNeta\SzkolaDotNeta_t2_l8\SzkolaDotNeta_t2_l8\obj\Debug\netcoreapp3.1\SzkolaDotNeta_t2_l8.genruntimeconfig.cache
