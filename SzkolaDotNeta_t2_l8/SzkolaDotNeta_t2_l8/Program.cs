@@ -19,6 +19,8 @@ namespace SzkolaDotNeta_t2_l8
             //Task5();
             //Task6();
             //Task7(20);
+            //Task8();
+            Task9();
         }
 
         public static void Task1()
@@ -140,6 +142,37 @@ namespace SzkolaDotNeta_t2_l8
             }
             return length;
         }
+
+        public static void Task8()
+        {
+            Console.WriteLine("Enter a string:");
+            string str = Console.ReadLine();
+
+            for (int i = (str.Length - 1); i >= 0; i--)
+            {
+                Console.Write(str[i]);
+            }
+        }
+
+        public static void Task9()
+        {
+            Console.WriteLine("Enter a decimal:");
+            int dec = int.Parse(Console.ReadLine());
+
+            int remainder;
+            string result = string.Empty;
+            while (dec > 0)
+            {
+                remainder = dec % 2;
+                dec /= 2;
+                result = remainder.ToString() + result;
+            }
+            Console.WriteLine($"Binary: {result}");
+
+        }
+            
+            
+
 
     }
 }
