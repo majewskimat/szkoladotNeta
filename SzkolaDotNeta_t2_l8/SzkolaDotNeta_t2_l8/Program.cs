@@ -24,6 +24,7 @@ namespace SzkolaDotNeta_t2_l8
             //Task10();
         }
 
+        //1. Napisz program, który sprawdzi ile jest liczb pierwszych w zakresie 0 – 100.
         public static void Task1()
         {
             for (int i = 2; i <= 100; i++)
@@ -45,7 +46,8 @@ namespace SzkolaDotNeta_t2_l8
 
             }
         }
-
+        //2. Napisz program, w którym za pomocą pętli do…while znajdziesz wszystkie liczby parzyste z
+        //zakresu 0 – 1000.
         public static void Task2()
         {
             int i = 0;
@@ -57,6 +59,7 @@ namespace SzkolaDotNeta_t2_l8
             } while (i <= 1000);
         }
 
+        //3. Napisz program, który zaimplementuje ciąg Fibonacciego i wyświetli go na ekranie.
         public static string Task3(int input)
         {
             StringBuilder sbuilder = new StringBuilder();
@@ -75,6 +78,12 @@ namespace SzkolaDotNeta_t2_l8
 
         }
 
+        //4. Napisz program, który po podaniu liczby całkowitej wyświetli piramidę liczb od 1 do podanej
+        //liczby w formie jak poniżej:
+        //1
+        //2 3
+        //4 5 6
+        //7 8 9 10
         public static void Task4()
         {
             int counter = 1, space = 1;
@@ -99,6 +108,7 @@ namespace SzkolaDotNeta_t2_l8
 
         }
 
+        //5. Napisz program, który dla liczb od 1 do 20 wyświetli na ekranie ich 3 potęgę.
         public static void Task5()
         {
             for (int i = 1; i <= 20; i++)
@@ -107,6 +117,8 @@ namespace SzkolaDotNeta_t2_l8
             }
         }
 
+        //6. Napisz program, który dla liczb od 0 do 20 obliczy sumę wg wzoru:
+        //1 + ½ + 1/3 + ¼ itd.
         public static void Task6()
         {
             double i, sum = 0;
@@ -117,6 +129,17 @@ namespace SzkolaDotNeta_t2_l8
             Console.WriteLine(sum);
         }
 
+        //7. Napisz program, który dla liczby zadanej przez użytkownika narysuje diament o krótszej
+        //przekątnej o długości wprowadzonej przez użytkownika i wg wzoru:
+        //    *
+        //   ***
+        //  *****
+        // *******
+        //*********
+        // *******
+        //  *****
+        //   ***
+        //    *
         public static int Task7(int length)
         {
             //top of the diamond
@@ -144,6 +167,12 @@ namespace SzkolaDotNeta_t2_l8
             return length;
         }
 
+        //8. Napisz program, który odwróci wprowadzony przez użytkownika ciąg znaków.Np.
+        //Testowe dane:
+        //Abcdefg
+        //Rezultat
+        //Gfedcba
+
         public static void Task8()
         {
             Console.WriteLine("Enter a string:");
@@ -155,6 +184,7 @@ namespace SzkolaDotNeta_t2_l8
             }
         }
 
+        //9. Napisz program, który zamieni liczbę dziesiętną na liczbę binarną.
         public static void Task9()
         {
             Console.WriteLine("Enter a decimal:");
@@ -172,6 +202,7 @@ namespace SzkolaDotNeta_t2_l8
 
         }
 
+        //10. Napisz program, który znajdzie najmniejszą wspólną wielokrotność dla zadanych 2 liczb.
         public static int GCD(int a, int b)
         {
             int helper;
