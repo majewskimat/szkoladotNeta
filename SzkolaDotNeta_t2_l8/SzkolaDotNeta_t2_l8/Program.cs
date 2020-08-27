@@ -20,7 +20,8 @@ namespace SzkolaDotNeta_t2_l8
             //Task6();
             //Task7(20);
             //Task8();
-            Task9();
+            //Task9();
+            //Task10();
         }
 
         public static void Task1()
@@ -170,7 +171,28 @@ namespace SzkolaDotNeta_t2_l8
             Console.WriteLine($"Binary: {result}");
 
         }
-            
+
+        public static int GCD(int a, int b)
+        {
+            int helper;
+
+            while(b!=0)
+            {
+                helper = b;
+                b = a % b;
+                a = helper;
+            }
+            return a;
+        }
+        public static void Task10()
+        {
+            Console.WriteLine("Enter two integers: ");
+            int firstNum = int.Parse(Console.ReadLine());
+            int secondNum = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($"LCM from {firstNum} and {secondNum} = " + firstNum/GCD(firstNum, secondNum)*secondNum);
+
+        }
             
 
 
